@@ -3,7 +3,7 @@ module.exports = {
   output: {
     path: './dist',
     filename: "android-device-list.min.js",
-    library: "iosDeviceList",
+    library: "androidDeviceList",
     libraryTarget: "umd"
   },
   module: {
